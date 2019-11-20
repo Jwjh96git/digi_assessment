@@ -1,0 +1,7 @@
+Section 1:
+
+Front-end : HTML and CSS (possibly Bootstrap)
+Back-end  : JavaScript
+Database  : MySQL
+
+These three elements can be integrated and used together. HTML and CSS are widely used, providing references and help on the internet. CSS can be written as scripts to enable modular programming. Bootstrap can be used based on the requirements of the client, whether they would like a custom look or a standard look. JavaScript is a robust back-end programming language, which can also be written as scripts to help with organization and enable modular programming. MySQL can act as the database to store customer and reservation details, which can be later displayed. 
